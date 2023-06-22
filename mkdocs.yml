@@ -79,6 +79,9 @@ markdown_extensions:
           format: !!python/name:pymdownx.superfences.fence_code_format
 plugins:
   - search
+  - plantuml:
+      puml_url: https://www.plantuml.com/plantuml/
+      num_workers: 8
   - meta-descriptions
   - git-revision-date-localized:
       type: date
