@@ -46,6 +46,15 @@
     },
     {
         "page": null,
+        "src_uri": "assets/css/style.scss",
+        "abs_src_path": "/home/patrick/dev/demos/demo_mkdocs_obsidian_plantuml/docs/assets/css/style.scss",
+        "name": "style",
+        "dest_uri": "assets/css/style.scss",
+        "abs_dest_path": "/home/patrick/dev/demos/demo_mkdocs_obsidian_plantuml/site/assets/css/style.scss",
+        "url": "assets/css/style.scss"
+    },
+    {
+        "page": null,
         "src_uri": "assets/meta/SEO.png",
         "abs_src_path": "/home/patrick/dev/demos/demo_mkdocs_obsidian_plantuml/docs/assets/meta/SEO.png",
         "name": "SEO",
