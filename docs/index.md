@@ -37,9 +37,9 @@ B -> A: close handshake
   
 @startuml C4_Elements  
   
-Person(personAlias, "Label", "Optional Description")  
-Container(containerAlias, "Label", "Technology", "Optional Description")  
-System(systemAlias, "Label", "Optional Description")  
+Person(personAlias, "Label", "Optional Description ABC")  
+Container(containerAlias, "Label", "Technology", "Optional Description XYZ")  
+System(systemAlias, "Label", "Optional Description 123")  
   
 Rel(personAlias, containerAlias, "Label", "Optional Technology")  
 @enduml  
