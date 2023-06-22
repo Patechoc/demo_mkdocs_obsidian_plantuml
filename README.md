@@ -1,0 +1,1 @@
+# demo_mkdocs_obsidian_plantuml
