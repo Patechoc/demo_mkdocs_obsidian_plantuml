@@ -121,6 +121,7 @@ extra_css:
     - assets/css/admonition.css
     - assets/css/custom_attributes.css
     - assets/css/customization.css
+    - assets/css/style.scss
 extra:
   SEO: assets/meta/SEO.png
   comments: false #disable comments globally
