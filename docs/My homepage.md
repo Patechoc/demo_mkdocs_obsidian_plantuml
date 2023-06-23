@@ -19,7 +19,7 @@ tags:
   
 Not much to say  
   
-Let see the others:  
+Let see the other pages:  
 - [[./My first page|My first page]]  
 - [[folder2]]  
 	- [[./foo|foo]]  
